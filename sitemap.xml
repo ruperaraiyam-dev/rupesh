@@ -1,0 +1,66 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://arohomeservice.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/services.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/faq.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/blog/index.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/blog/ro-not-producing-water.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/blog/when-to-change-ro-filter.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/blog/ro-water-leakage.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/blog/ro-water-flow-slow.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/areas/index.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/areas/darbhanga.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/areas/sakri.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/areas/madhubani.html</loc>
+  </url>
+
+  <url>
+    <loc>https://arohomeservice.com/areas/jhanjharpur.html</loc>
+  </url>
+
+</urlset>
+```
